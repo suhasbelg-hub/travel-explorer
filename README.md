@@ -51,12 +51,14 @@ assets/images/              bundled photos
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.58%20PM)
+### Screenshot 1
+![Screenshot 1](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.58%20PM.jpeg)
 
-![Screenshot 2](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM%20(1))
+### Screenshot 2
+![Screenshot 2](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM%20(1).jpeg)
 
-![Screenshot 3](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM)
-
+### Screenshot 3
+![Screenshot 3](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM.jpeg)
 
 
 ## Image credits
