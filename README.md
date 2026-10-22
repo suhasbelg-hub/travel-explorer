@@ -50,7 +50,17 @@ assets/images/              bundled photos
 
 ## Screenshots
 
-Add screenshots of Home, Details, Wishlist and Matcher here before submitting.
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.58%20PM.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM%20(1).png)
+
+### Screenshot 3
+![Screenshot 3](screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM.png)
+
 
 ## Image credits
 
