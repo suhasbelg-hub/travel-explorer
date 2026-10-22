@@ -48,18 +48,15 @@ assets/images/              bundled photos
 - Search and filter are one pure function, `filterDestinations(list, query, category)`.
 - The matcher scores each destination: +3 for the matching category, up to +2 for budget closeness, +2 for fitting the trip length, then shows the top 3.
 
-## Screenshots
 
 ## Screenshots
 
-### Screenshot 1
-![Screenshot 1](screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.58%20PM.png)
+![Screenshot 1](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.58%20PM)
 
-### Screenshot 2
-![Screenshot 2](screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM%20(1).png)
+![Screenshot 2](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM%20(1))
 
-### Screenshot 3
-![Screenshot 3](screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM.png)
+![Screenshot 3](./screenshots/WhatsApp%20Image%202026-10-22%20at%2010.06.57%20PM)
+
 
 
 ## Image credits
